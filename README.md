@@ -1,6 +1,4 @@
-Certainly! Here's a basic template for your GitHub README file for the Money Tracker Web App project:
 
----
 
 # Money Tracker Web App
 
@@ -26,7 +24,7 @@ A simple web application to track income and expenses, and calculate total balan
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/money-tracker-web-app.git
+   git clone https://github.com/D-D-Roshan/Money-tracker-app
    ```
 2. Open `index.html` in your web browser.
 
